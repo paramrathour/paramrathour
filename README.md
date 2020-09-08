@@ -19,7 +19,7 @@ It has been said that astronomy is a humbling and character-building experience.
 
 - 📫 Email: **paramrathour3435@gmail.com**
 
-- You can find my report on Nonlinear Dynamics [here](https://github.com/paramrathour/Nonlinear-Dynamics/blob/master/Nonlinear%20Dynamics.pdf)
+- You can find my report on Nonlinear Dynamics [here](https://paramrathour.github.io/Nonlinear-Dynamics/Nonlinear%20Dynamics.pdf)
 
 - Some interesting stuff 
   - [Game of Life](https://github.com/paramrathour/Scientific-Computing/tree/master/Cellular%20Automaton/Game%20of%20Life)
