@@ -23,7 +23,7 @@ It has been said that astronomy is a humbling and character-building experience.
 
 - Some interesting stuff 
   - [Game of Life](https://github.com/paramrathour/Scientific-Computing/tree/master/Cellular%20Automaton/Game%20of%20Life)
-  - [Langton's Ant](https://github.com/paramrathour/Scientific-Computing/tree/master/Cellular%20Automaton/Langton's%20Ant) (the above graphic)
+  - [Langton's Ant](https://github.com/paramrathour/Scientific-Computing/tree/master/Cellular%20Automaton/Langton's%20Ant)
 <p align="center">
 <a href="https://linkedin.com/in/param3435" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="param3435" height="20" width="20" /></a>
 <a href="https://fb.com/param3435" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="param3435" height="20" width="20" /></a>
