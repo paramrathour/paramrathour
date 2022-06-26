@@ -23,13 +23,13 @@ It has been said that astronomy is a humbling and character-building experience.
 
 <div align="center">
 <a href="https://github.com/paramrathour/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramrathour&layout=compact&theme=dark&langs_count=8" alt="top-langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramrathour&layout=compact&theme=dark&langs_count=8&hide_border=true&exclude_repo=paramrathour.github.io" alt="top-langs" />
 </a>
 <a href="https://github.com/paramrathour/github-readme-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=paramrathour&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="github-streaks"/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=paramrathour&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="github-streaks"/>
 </a>
 <!--a href="https://github.com/paramrathour/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paramrathour&count_private=true&show_icons=true&theme=dark" alt="github-stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paramrathour&count_private=true&show_icons=true&theme=dark&hide_border=true" alt="github-stats"/>
 </a-->
 </div>
 <p align="center">
