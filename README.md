@@ -17,13 +17,14 @@ It has been said that astronomy is a humbling and character-building experience.
 
 - 👨‍💻 [Here](https://paramrathour.github.io/) is my website
 
-- 📫 Email: **paramrathour3435@gmail.com**
-
-- You can find my report on Nonlinear Dynamics [here](https://paramrathour.github.io/Nonlinear-Dynamics/Nonlinear%20Dynamics.pdf)
-
 - Some interesting stuff 
   - [Game of Life](https://github.com/paramrathour/Scientific-Computing/tree/master/Cellular%20Automaton/Game%20of%20Life)
   - [Langton's Ant](https://github.com/paramrathour/Scientific-Computing/tree/master/Cellular%20Automaton/Langton's%20Ant)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paramrathour&layout=compact&theme=dark" alt="top-langs"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=paramrathour&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="github-streaks"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=paramrathour&count_private=true&show_icons=true&theme=dark" alt="github-stats"/> -->
+</div>
 <p align="center">
 <a href="https://linkedin.com/in/param3435" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="param3435" height="20" width="20" /></a>
 <a href="https://fb.com/param3435" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="param3435" height="20" width="20" /></a>
