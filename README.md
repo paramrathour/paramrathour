@@ -32,8 +32,3 @@ It has been said that astronomy is a humbling and character-building experience.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=paramrathour&count_private=true&show_icons=true&theme=dark&hide_border=true" alt="github-stats"/>
 </a-->
 </div>
-<p align="center">
-<a href="https://linkedin.com/in/param3435" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="param3435" height="20" width="20" /></a>
-<a href="https://fb.com/param3435" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="param3435" height="20" width="20" /></a>
-<a href="https://instagram.com/param3435" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="param3435" height="20" width="20" /></a>
-</p>
