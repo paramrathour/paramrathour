@@ -21,7 +21,7 @@ It has been said that astronomy is a humbling and character-building experience.
 - Some tutorials
   - [CS101 Tips](https://paramrathour.github.io/blog/cs101-tips)
   - [LaTeX Tips](https://paramrathour.github.io/blog/latex-tips) 
-- Some interesting stuff 
+- Some interesting cellular automata
   - [Game of Life](https://github.com/paramrathour/Scientific-Computing/tree/master/Cellular%20Automaton/Game%20of%20Life)
   - [Langton's Ant](https://github.com/paramrathour/Scientific-Computing/tree/master/Cellular%20Automaton/Langton's%20Ant)
 
